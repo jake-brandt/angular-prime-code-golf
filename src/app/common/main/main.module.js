@@ -1,5 +1,7 @@
 import angular from 'angular';
 
+import './main.css';
+
 import {MainComponent} from './main.component.js';
 
 export const MainModule = angular
